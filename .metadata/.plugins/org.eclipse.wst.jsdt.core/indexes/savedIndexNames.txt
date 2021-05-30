@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\workspaces\pitang\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1973005680.index
+3700161847.index
+3525815294.index
+2927190709.index
+3349128994.index
+399341416.index
